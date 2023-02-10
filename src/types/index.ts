@@ -1,2 +1,2 @@
 export * from './ApiTypes';
-export * from './UserTypes';
+export * from './SeoProps';

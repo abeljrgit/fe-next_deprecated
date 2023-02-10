@@ -8,9 +8,14 @@ import tiktokIcon from './icons/tiktok.svg';
 import weiboIcon from './icons/weibo.svg';
 import youtubeIcon from './icons/youtube.svg';
 
-export const fonts = {};
+export const Fonts = {};
 
-export const icons = {};
+export const Icons = {
+  instagramIcon,
+  tiktokIcon,
+  weiboIcon,
+  youtubeIcon,
+};
 
 export const Images = {
   jennieImg,
@@ -19,9 +24,4 @@ export const Images = {
   roseImg,
 };
 
-export const Icons = {
-  instagramIcon,
-  tiktokIcon,
-  weiboIcon,
-  youtubeIcon,
-};
+export const Videos = {};
