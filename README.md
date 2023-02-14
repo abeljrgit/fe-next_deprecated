@@ -1,13 +1,15 @@
 # Front-end Boilerplate
 
-Front-end boilerplate using Next.JS, React.JS, Tailwind CSS and Typescript.
+Front-end boilerplate using Next.JS, SWR, React.JS, Tailwind CSS, TW-Elements and Typescript.
 
 ## Features
 
-- Next.JS for rendering the app on the server side
-- React.js library for web app development
-- Tailwind CSS for fast styling
-- Typescript for scalability.
+- Next.JS for rendering the app on the server side.
+- SWR for data fetching.
+- React.js library for web app development.
+- Typescript for type safety and scalability.
+- Tailwind CSS for fast styling.
+- TW-Elements for quick UI.
 
 ## Run Locally
 
@@ -21,22 +23,22 @@ Install dependencies(npm):
   npm install
 ```
 
-Start the vite development server(npm):
+Start the next.js development server(npm):
 
 ```bash
   npm run dev
 ```
 
-Build your work(npm, target ES6)
+Build your work(npm, production purpose, target ES6):
 
 ```bash
   npm run build
 ```
 
-Test your work(npm, vitest)
+Start your build files(npm, production purpose):
 
 ```bash
-  npm run test
+  npm run start
 ```
 
 ## Folder Structure
@@ -46,7 +48,7 @@ Folder name is self explanatory
     src
     ├── public
     └── src
-        └── api
+        ├── api
         ├── assets
         ├── components
         ├── context
@@ -58,6 +60,7 @@ Folder name is self explanatory
 ## Documentation
 
 [Next.JS](https://nextjs.org/docs/getting-started)  
+[SWR](https://swr.vercel.app/docs/getting-started)  
 [React.JS](https://reactjs.org/docs/getting-started.html)  
 [Tailwind CSS](https://tailwindcss.com/docs/)  
 [Typescript](https://www.typescriptlang.org/docs/)
