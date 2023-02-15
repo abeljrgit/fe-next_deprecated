@@ -72,6 +72,7 @@ Folder name is self explanatory
 ## Documentation
 
 [Next.JS](https://nextjs.org/docs/getting-started)  
+[NextAuth.JS](https://next-auth.js.org/getting-started/introduction)  
 [SWR](https://swr.vercel.app/docs/getting-started)  
 [React.JS](https://reactjs.org/docs/getting-started.html)  
 [Tailwind CSS](https://tailwindcss.com/docs/)  
