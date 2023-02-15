@@ -1,5 +1,5 @@
 import { useCallback, useState } from 'react';
-import { ApiData, ApiStatus } from '@types';
+import { ApiData, ApiStatus } from '@/types';
 
 export const useHttp = () => {
   const [status, setStatus] = useState<ApiStatus>(ApiStatus.Initializing);
