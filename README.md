@@ -54,14 +54,18 @@ Export your files(npm, production purpose, spa):
 Folder name is self explanatory
 
     src
+    ├── .next - dev or build files, git ignored
+    ├── node_modules - git ignored
+    ├── out - export files, git ignored
     ├── public
     └── src
-        ├── api
         ├── assets
         ├── components
         ├── context
         ├── hooks
         ├── pages
+        |   └── api - internal api
+        ├── services - external api
         ├── styles
         └── types
 
