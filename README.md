@@ -41,6 +41,14 @@ Start your build files(npm, production purpose):
   npm run start
 ```
 
+Export your files(npm, production purpose, spa):
+
+- Please take note that you cannot use ISG, SSG and some Next.JS functionality. Kindly refer to the [documentation](https://nextjs.org/docs/advanced-features/static-html-export)
+
+```bash
+  npm run export
+```
+
 ## Folder Structure
 
 Folder name is self explanatory
