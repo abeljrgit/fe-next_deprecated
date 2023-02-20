@@ -5,7 +5,6 @@ Front-end boilerplate using Next.JS, SWR, React.JS, Tailwind CSS, TW-Elements an
 ## Features
 
 - Next.JS for rendering the app on the server side.
-- SWR for data fetching.
 - React.js library for web app development.
 - Jest for unit testing.
 - Typescript for type safety and scalability.
@@ -74,7 +73,6 @@ Folder name is self explanatory
 
 [Next.JS](https://nextjs.org/docs/getting-started)  
 [NextAuth.JS](https://next-auth.js.org/getting-started/introduction)  
-[SWR](https://swr.vercel.app/docs/getting-started)  
 [React.JS](https://reactjs.org/docs/getting-started.html)  
 [Jest](https://jestjs.io/docs/getting-started)  
 [Tailwind CSS](https://tailwindcss.com/docs/)  
